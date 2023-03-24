@@ -16,13 +16,13 @@ This program requires Python 3.x and the following Python modules:
 
 To install these modules, run the following command:
 
-  `pip install pyttsx3`
-  `pip install speech_recognition`
-  `pip install openai`
+    pip install pyttsx3
+    pip install speech_recognition
+    pip install openai
 
 
 
-##Running the Program
+## Running the Program
 
 To run the program, open a terminal or command prompt and navigate to the directory where the program is saved. Then, run the following command:
 
@@ -35,7 +35,7 @@ The program will then start, and you can begin interacting with the voice assist
 
 
 
-##Commands
+## Commands
 
 The following commands are supported:
 
@@ -45,7 +45,7 @@ The following commands are supported:
     "Exit" - The voice assistant will say goodbye and terminate the program.
     
     
-##Purpose
+## Purpose
 
 The purpose of the Voice Assistant with OpenAI API is to provide a simple, easy-to-use voice assistant that can answer questions, provide information, and engage in conversation with the user. By leveraging the OpenAI API, the program can generate high-quality text responses that are tailored to the user's input.
 Features
@@ -57,7 +57,7 @@ The main features of the Voice Assistant with OpenAI API include:
     Text generation using the OpenAI API
     Command recognition and response based on user input
 
-##Technologies Used
+## Technologies Used
 
 The Voice Assistant with OpenAI API is written in Python and uses the following technologies:
 
